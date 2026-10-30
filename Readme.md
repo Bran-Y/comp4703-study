@@ -36,13 +36,14 @@ The server listens only on your own computer. Keep `study.sh` and the `dist` dir
 
 ## Study features / 学习功能
 
-- 164 short-answer questions and 36 long-answer questions, with English and Chinese question and answer text.
-- 47 worked calculation or procedural examples, each with a bilingual practice exercise.
+- Short-answer and long-answer questions, with English and Chinese question and answer text.
+- Worked calculation or procedural examples, each with a bilingual practice exercise.
+- A separate Final Week (WFN) collection, grouped by review topic and designed for future additions.
 - Search by keyword, question ID, chapter, or review status; view formulas and use interactive calculation tools.
 - Practise with a random self-test and mark questions as mastered, needing review, or starred.
 - Check the sample-exam mappings and clarifications, with references to the source PDFs.
 
-每道题的题干和参考答案都有中英对照。可以按知识点、题号和章节搜索，使用随机自测、收藏和复习标记，并在计算专区练习公式和步骤。
+每道题的题干和参考答案都有中英对照。可以按知识点、题号和章节搜索，使用随机自测、收藏和复习标记，并在计算专区练习公式和步骤。期末复习栏目按主题分组，方便继续补充资料。
 
 ## Learning data / 学习记录
 
@@ -54,4 +55,4 @@ Progress, notes, and drafts are saved in the current browser's local storage. Th
 
 The questions are revision material based on the provided lectures and sample papers; they are not an official exam or a prediction of exam questions. The original lecture and exam PDF files are not included. Check the website's source and clarification section when an example depends on a specific convention or a sample answer appears inconsistent.
 
-题库根据已提供的课件和样卷整理，用于复习，不是官方试卷或考题预测。项目不包含原始课件与试卷 PDF；具体来源和样卷中需要澄清的地方见网页「资料与勘误」。
+题库根据已提供的课件、样卷和期末复习资料整理，用于复习，不是官方试卷或考题预测。项目不包含原始资料 PDF；具体来源和样卷中需要澄清的地方见网页「资料与勘误」。
