@@ -39,11 +39,12 @@ The server listens only on your own computer. Keep `study.sh` and the `dist` dir
 - Short-answer and long-answer questions, with English and Chinese question and answer text.
 - Worked calculation or procedural examples, each with a bilingual practice exercise.
 - A separate Final Week (WFN) collection, grouped by review topic and designed for future additions.
+- An Exam view that reorganises the same question bank into Section 1–10, with a crosswalk for the different 2024 and 2025 sample-paper structures.
 - Search by keyword, question ID, chapter, or review status; view formulas and use interactive calculation tools.
 - Practise with a random self-test and mark questions as mastered, needing review, or starred.
 - Check the sample-exam mappings and clarifications, with references to the source PDFs.
 
-每道题的题干和参考答案都有中英对照。可以按知识点、题号和章节搜索，使用随机自测、收藏和复习标记，并在计算专区练习公式和步骤。期末复习栏目按主题分组，方便继续补充资料。
+每道题的题干和参考答案都有中英对照。可以按知识点、题号和章节搜索，使用随机自测、收藏和复习标记，并在计算专区练习公式和步骤。期末复习栏目按主题分组；Exam 栏则按 Section 1–10 重组同一题库，并标明 2024 与 2025 样卷后半部分的编号差异。
 
 ## Learning data / 学习记录
 
